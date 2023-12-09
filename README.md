@@ -23,7 +23,3 @@ Fun Facts:
   <img src='https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'/> &nbsp;&nbsp;
   <img src='https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white'/> &nbsp;&nbsp;
 </p>
-                    
- ### Socials
-                  
-<p align="left"> <a href="https://www.github.com/RaycBit" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
