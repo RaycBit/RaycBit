@@ -4,7 +4,7 @@ Fun Facts:
 * Based in New York
 * Love to Watch anime
 * Love to Read
-* I Enjoy traveling and going places
+* I Enjoy traveling
 
 ### Skills
 <p align='center'>
